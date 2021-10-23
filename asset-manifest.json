@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/practica_examen/static/css/main.e237f5a6.chunk.css",
+    "main.js": "/practica_examen/static/js/main.2a852bb5.chunk.js",
+    "main.js.map": "/practica_examen/static/js/main.2a852bb5.chunk.js.map",
+    "runtime-main.js": "/practica_examen/static/js/runtime-main.41616a6d.js",
+    "runtime-main.js.map": "/practica_examen/static/js/runtime-main.41616a6d.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/practica_examen/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d85d9cbf.chunk.js": "/practica_examen/static/js/2.d85d9cbf.chunk.js",
+    "static/js/2.d85d9cbf.chunk.js.map": "/practica_examen/static/js/2.d85d9cbf.chunk.js.map",
+    "static/js/3.8e84eb17.chunk.js": "/practica_examen/static/js/3.8e84eb17.chunk.js",
+    "static/js/3.8e84eb17.chunk.js.map": "/practica_examen/static/js/3.8e84eb17.chunk.js.map",
+    "index.html": "/practica_examen/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/practica_examen/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.e237f5a6.chunk.css.map": "/practica_examen/static/css/main.e237f5a6.chunk.css.map",
+    "static/js/2.d85d9cbf.chunk.js.LICENSE.txt": "/practica_examen/static/js/2.d85d9cbf.chunk.js.LICENSE.txt",
+    "static/media/logocinepolis.c4f7ac20.jpg": "/practica_examen/static/media/logocinepolis.c4f7ac20.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41616a6d.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d85d9cbf.chunk.js",
+    "static/css/main.e237f5a6.chunk.css",
+    "static/js/main.2a852bb5.chunk.js"
+  ]
+}
